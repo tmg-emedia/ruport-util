@@ -1,6 +1,6 @@
 require 'cgi'
 require 'tmpdir'
-require 'zip/zip'
+require 'zip'
 
 module Ruport
   # This class provides Excel output for Ruport's Table controllers.
